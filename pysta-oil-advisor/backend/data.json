@@ -8,7 +8,7 @@
     "api": "API SL o superior",
     "jaso": "JASO MA2",
     "capacity_liters": "1.0",
-    "notes": "Recomendación referencial. Validar siempre manual del fabricante."
+    "notes": "Recomendación referencial para uso en Colombia. Validar manual del fabricante."
   },
   {
     "brand": "AKT",
@@ -19,7 +19,7 @@
     "api": "API SL o superior",
     "jaso": "JASO MA2",
     "capacity_liters": "1.0",
-    "notes": "Recomendación referencial. Validar siempre manual del fabricante."
+    "notes": "Recomendación referencial para uso en Colombia. Validar manual del fabricante."
   },
   {
     "brand": "AKT",
@@ -30,7 +30,95 @@
     "api": "API SL o superior",
     "jaso": "JASO MA2",
     "capacity_liters": "1.0",
-    "notes": "Recomendación referencial. Validar siempre manual del fabricante."
+    "notes": "Recomendación referencial para uso en Colombia. Validar manual del fabricante."
+  },
+  {
+    "brand": "AKT",
+    "model": "NKD 125",
+    "year": 2023,
+    "engine_type": "4T",
+    "viscosity": "20W-50",
+    "api": "API SL o superior",
+    "jaso": "JASO MA2",
+    "capacity_liters": "1.0",
+    "notes": "Recomendación referencial para uso en Colombia. Validar manual del fabricante."
+  },
+  {
+    "brand": "AKT",
+    "model": "TT 125",
+    "year": 2022,
+    "engine_type": "4T",
+    "viscosity": "20W-50",
+    "api": "API SL o superior",
+    "jaso": "JASO MA2",
+    "capacity_liters": "1.0",
+    "notes": "Uso mixto urbano y trabajo. Validar manual del fabricante."
+  },
+  {
+    "brand": "AKT",
+    "model": "TT 125",
+    "year": 2023,
+    "engine_type": "4T",
+    "viscosity": "20W-50",
+    "api": "API SL o superior",
+    "jaso": "JASO MA2",
+    "capacity_liters": "1.0",
+    "notes": "Uso mixto urbano y trabajo. Validar manual del fabricante."
+  },
+  {
+    "brand": "AKT",
+    "model": "CR4 125",
+    "year": 2022,
+    "engine_type": "4T",
+    "viscosity": "20W-50",
+    "api": "API SL o superior",
+    "jaso": "JASO MA2",
+    "capacity_liters": "1.0",
+    "notes": "Especificación referencial. Validar manual del fabricante."
+  },
+  {
+    "brand": "AKT",
+    "model": "CR4 125",
+    "year": 2023,
+    "engine_type": "4T",
+    "viscosity": "20W-50",
+    "api": "API SL o superior",
+    "jaso": "JASO MA2",
+    "capacity_liters": "1.0",
+    "notes": "Especificación referencial. Validar manual del fabricante."
+  },
+  {
+    "brand": "AKT",
+    "model": "Dynamic Pro 125",
+    "year": 2022,
+    "engine_type": "4T",
+    "viscosity": "20W-50",
+    "api": "API SL o superior",
+    "jaso": "JASO MA2",
+    "capacity_liters": "1.0",
+    "notes": "Especificación referencial. Confirmar según manual."
+  },
+  {
+    "brand": "AKT",
+    "model": "Dynamic Pro 125",
+    "year": 2023,
+    "engine_type": "4T",
+    "viscosity": "20W-50",
+    "api": "API SL o superior",
+    "jaso": "JASO MA2",
+    "capacity_liters": "1.0",
+    "notes": "Especificación referencial. Confirmar según manual."
+  },
+  {
+    "brand": "Yamaha",
+    "model": "XTZ 150",
+    "year": 2021,
+    "engine_type": "4T",
+    "viscosity": "20W-50",
+    "api": "API SL o superior",
+    "jaso": "JASO MA2",
+    "capacity_liters": "1.0",
+    "notes": "Muy común en Colombia. Validar siempre manual del fabricante."
   },
   {
     "brand": "Yamaha",
@@ -41,7 +129,29 @@
     "api": "API SL o superior",
     "jaso": "JASO MA2",
     "capacity_liters": "1.0",
-    "notes": "Ideal para uso urbano y clima cálido. Validar manual."
+    "notes": "Muy común en Colombia. Validar siempre manual del fabricante."
+  },
+  {
+    "brand": "Yamaha",
+    "model": "XTZ 150",
+    "year": 2023,
+    "engine_type": "4T",
+    "viscosity": "20W-50",
+    "api": "API SL o superior",
+    "jaso": "JASO MA2",
+    "capacity_liters": "1.0",
+    "notes": "Muy común en Colombia. Validar siempre manual del fabricante."
+  },
+  {
+    "brand": "Yamaha",
+    "model": "FZ 2.0",
+    "year": 2022,
+    "engine_type": "4T",
+    "viscosity": "10W-40",
+    "api": "API SL o superior",
+    "jaso": "JASO MA2",
+    "capacity_liters": "1.15",
+    "notes": "Especificación referencial alineada con línea 4T moderna de Yamaha."
   },
   {
     "brand": "Yamaha",
@@ -52,7 +162,128 @@
     "api": "API SL o superior",
     "jaso": "JASO MA2",
     "capacity_liters": "1.15",
-    "notes": "Validar siempre el manual del fabricante."
+    "notes": "Especificación referencial alineada con línea 4T moderna de Yamaha."
+  },
+  {
+    "brand": "Yamaha",
+    "model": "FZN 150",
+    "year": 2022,
+    "engine_type": "4T",
+    "viscosity": "10W-40",
+    "api": "API SL o superior",
+    "jaso": "JASO MA2",
+    "capacity_liters": "1.15",
+    "notes": "Validar siempre manual del fabricante."
+  },
+  {
+    "brand": "Yamaha",
+    "model": "FZN 150",
+    "year": 2023,
+    "engine_type": "4T",
+    "viscosity": "10W-40",
+    "api": "API SL o superior",
+    "jaso": "JASO MA2",
+    "capacity_liters": "1.15",
+    "notes": "Validar siempre manual del fabricante."
+  },
+  {
+    "brand": "Yamaha",
+    "model": "SZ-RR 150",
+    "year": 2021,
+    "engine_type": "4T",
+    "viscosity": "20W-50",
+    "api": "API SL o superior",
+    "jaso": "JASO MA2",
+    "capacity_liters": "1.2",
+    "notes": "Especificación referencial. Confirmar según manual."
+  },
+  {
+    "brand": "Yamaha",
+    "model": "SZ-RR 150",
+    "year": 2022,
+    "engine_type": "4T",
+    "viscosity": "20W-50",
+    "api": "API SL o superior",
+    "jaso": "JASO MA2",
+    "capacity_liters": "1.2",
+    "notes": "Especificación referencial. Confirmar según manual."
+  },
+  {
+    "brand": "Yamaha",
+    "model": "YBR Z125",
+    "year": 2021,
+    "engine_type": "4T",
+    "viscosity": "20W-50",
+    "api": "API SL o superior",
+    "jaso": "JASO MA2",
+    "capacity_liters": "1.0",
+    "notes": "Especificación referencial. Confirmar según manual."
+  },
+  {
+    "brand": "Yamaha",
+    "model": "YBR Z125",
+    "year": 2022,
+    "engine_type": "4T",
+    "viscosity": "20W-50",
+    "api": "API SL o superior",
+    "jaso": "JASO MA2",
+    "capacity_liters": "1.0",
+    "notes": "Especificación referencial. Confirmar según manual."
+  },
+  {
+    "brand": "Yamaha",
+    "model": "XTZ 125",
+    "year": 2021,
+    "engine_type": "4T",
+    "viscosity": "20W-50",
+    "api": "API SL o superior",
+    "jaso": "JASO MA2",
+    "capacity_liters": "1.0",
+    "notes": "Especificación referencial. Confirmar según manual."
+  },
+  {
+    "brand": "Yamaha",
+    "model": "XTZ 125",
+    "year": 2022,
+    "engine_type": "4T",
+    "viscosity": "20W-50",
+    "api": "API SL o superior",
+    "jaso": "JASO MA2",
+    "capacity_liters": "1.0",
+    "notes": "Especificación referencial. Confirmar según manual."
+  },
+  {
+    "brand": "Yamaha",
+    "model": "NMAX",
+    "year": 2022,
+    "engine_type": "4T",
+    "viscosity": "10W-40",
+    "api": "API SL o superior",
+    "jaso": "JASO MB",
+    "capacity_liters": "1.0",
+    "notes": "Scooter. Confirmar especificación exacta en manual."
+  },
+  {
+    "brand": "Yamaha",
+    "model": "NMAX",
+    "year": 2023,
+    "engine_type": "4T",
+    "viscosity": "10W-40",
+    "api": "API SL o superior",
+    "jaso": "JASO MB",
+    "capacity_liters": "1.0",
+    "notes": "Scooter. Confirmar especificación exacta en manual."
+  },
+  {
+    "brand": "Honda",
+    "model": "CB 125F",
+    "year": 2022,
+    "engine_type": "4T",
+    "viscosity": "10W-30",
+    "api": "API SL o superior",
+    "jaso": "JASO MA",
+    "capacity_liters": "0.9",
+    "notes": "Especificación referencial basada en lineamientos Honda para motos modernas."
   },
   {
     "brand": "Honda",
@@ -63,7 +294,128 @@
     "api": "API SL o superior",
     "jaso": "JASO MA",
     "capacity_liters": "0.9",
-    "notes": "Especificación referencial. Validar manual según país."
+    "notes": "Especificación referencial basada en lineamientos Honda para motos modernas."
+  },
+  {
+    "brand": "Honda",
+    "model": "XR 150L",
+    "year": 2022,
+    "engine_type": "4T",
+    "viscosity": "10W-30",
+    "api": "API SL o superior",
+    "jaso": "JASO MA",
+    "capacity_liters": "1.0",
+    "notes": "Especificación referencial para línea dual purpose Honda."
+  },
+  {
+    "brand": "Honda",
+    "model": "XR 150L",
+    "year": 2023,
+    "engine_type": "4T",
+    "viscosity": "10W-30",
+    "api": "API SL o superior",
+    "jaso": "JASO MA",
+    "capacity_liters": "1.0",
+    "notes": "Especificación referencial para línea dual purpose Honda."
+  },
+  {
+    "brand": "Honda",
+    "model": "XR 190L",
+    "year": 2022,
+    "engine_type": "4T",
+    "viscosity": "10W-30",
+    "api": "API SL o superior",
+    "jaso": "JASO MA",
+    "capacity_liters": "1.0",
+    "notes": "Validar siempre el manual del fabricante."
+  },
+  {
+    "brand": "Honda",
+    "model": "XR 190L",
+    "year": 2023,
+    "engine_type": "4T",
+    "viscosity": "10W-30",
+    "api": "API SL o superior",
+    "jaso": "JASO MA",
+    "capacity_liters": "1.0",
+    "notes": "Validar siempre el manual del fabricante."
+  },
+  {
+    "brand": "Honda",
+    "model": "CB 190R",
+    "year": 2022,
+    "engine_type": "4T",
+    "viscosity": "10W-30",
+    "api": "API SL o superior",
+    "jaso": "JASO MA",
+    "capacity_liters": "1.0",
+    "notes": "Especificación referencial. Confirmar según manual."
+  },
+  {
+    "brand": "Honda",
+    "model": "CB 190R",
+    "year": 2023,
+    "engine_type": "4T",
+    "viscosity": "10W-30",
+    "api": "API SL o superior",
+    "jaso": "JASO MA",
+    "capacity_liters": "1.0",
+    "notes": "Especificación referencial. Confirmar según manual."
+  },
+  {
+    "brand": "Honda",
+    "model": "CB 160F",
+    "year": 2022,
+    "engine_type": "4T",
+    "viscosity": "10W-30",
+    "api": "API SL o superior",
+    "jaso": "JASO MA",
+    "capacity_liters": "1.0",
+    "notes": "Especificación referencial. Confirmar según manual."
+  },
+  {
+    "brand": "Honda",
+    "model": "CB 160F",
+    "year": 2023,
+    "engine_type": "4T",
+    "viscosity": "10W-30",
+    "api": "API SL o superior",
+    "jaso": "JASO MA",
+    "capacity_liters": "1.0",
+    "notes": "Especificación referencial. Confirmar según manual."
+  },
+  {
+    "brand": "Honda",
+    "model": "XRE 300",
+    "year": 2022,
+    "engine_type": "4T",
+    "viscosity": "10W-30",
+    "api": "API SL o superior",
+    "jaso": "JASO MA",
+    "capacity_liters": "1.4",
+    "notes": "Especificación referencial. Confirmar según manual."
+  },
+  {
+    "brand": "Honda",
+    "model": "XRE 300",
+    "year": 2023,
+    "engine_type": "4T",
+    "viscosity": "10W-30",
+    "api": "API SL o superior",
+    "jaso": "JASO MA",
+    "capacity_liters": "1.4",
+    "notes": "Especificación referencial. Confirmar según manual."
+  },
+  {
+    "brand": "Honda",
+    "model": "PCX 160",
+    "year": 2023,
+    "engine_type": "4T",
+    "viscosity": "10W-30",
+    "api": "API SL o superior",
+    "jaso": "JASO MB",
+    "capacity_liters": "0.9",
+    "notes": "Scooter. Confirmar especificación exacta en manual."
   },
   {
     "brand": "Suzuki",
@@ -74,7 +426,106 @@
     "api": "API SL o superior",
     "jaso": "JASO MA",
     "capacity_liters": "0.95",
-    "notes": "Especificación referencial. Validar manual según mantenimiento."
+    "notes": "Especificación referencial común en Colombia."
+  },
+  {
+    "brand": "Suzuki",
+    "model": "GN 125",
+    "year": 2022,
+    "engine_type": "4T",
+    "viscosity": "20W-50",
+    "api": "API SL o superior",
+    "jaso": "JASO MA",
+    "capacity_liters": "0.95",
+    "notes": "Especificación referencial común en Colombia."
+  },
+  {
+    "brand": "Suzuki",
+    "model": "GN 125",
+    "year": 2023,
+    "engine_type": "4T",
+    "viscosity": "20W-50",
+    "api": "API SL o superior",
+    "jaso": "JASO MA",
+    "capacity_liters": "0.95",
+    "notes": "Especificación referencial común en Colombia."
+  },
+  {
+    "brand": "Suzuki",
+    "model": "AX4",
+    "year": 2022,
+    "engine_type": "4T",
+    "viscosity": "20W-50",
+    "api": "API SL o superior",
+    "jaso": "JASO MA",
+    "capacity_liters": "1.0",
+    "notes": "Especificación referencial común en Colombia."
+  },
+  {
+    "brand": "Suzuki",
+    "model": "AX4",
+    "year": 2023,
+    "engine_type": "4T",
+    "viscosity": "20W-50",
+    "api": "API SL o superior",
+    "jaso": "JASO MA",
+    "capacity_liters": "1.0",
+    "notes": "Especificación referencial común en Colombia."
+  },
+  {
+    "brand": "Suzuki",
+    "model": "Gixxer 150",
+    "year": 2022,
+    "engine_type": "4T",
+    "viscosity": "10W-40",
+    "api": "API SL o superior",
+    "jaso": "JASO MA2",
+    "capacity_liters": "1.1",
+    "notes": "Especificación referencial. Confirmar según manual."
+  },
+  {
+    "brand": "Suzuki",
+    "model": "Gixxer 150",
+    "year": 2023,
+    "engine_type": "4T",
+    "viscosity": "10W-40",
+    "api": "API SL o superior",
+    "jaso": "JASO MA2",
+    "capacity_liters": "1.1",
+    "notes": "Especificación referencial. Confirmar según manual."
+  },
+  {
+    "brand": "Suzuki",
+    "model": "GS 125",
+    "year": 2021,
+    "engine_type": "4T",
+    "viscosity": "20W-50",
+    "api": "API SL o superior",
+    "jaso": "JASO MA",
+    "capacity_liters": "1.0",
+    "notes": "Especificación referencial. Confirmar según manual."
+  },
+  {
+    "brand": "Suzuki",
+    "model": "GS 125",
+    "year": 2022,
+    "engine_type": "4T",
+    "viscosity": "20W-50",
+    "api": "API SL o superior",
+    "jaso": "JASO MA",
+    "capacity_liters": "1.0",
+    "notes": "Especificación referencial. Confirmar según manual."
+  },
+  {
+    "brand": "Bajaj",
+    "model": "Boxer CT 100",
+    "year": 2021,
+    "engine_type": "4T",
+    "viscosity": "20W-50",
+    "api": "API SL o superior",
+    "jaso": "JASO MA2",
+    "capacity_liters": "1.0",
+    "notes": "Especificación referencial. Confirmar según manual."
   },
   {
     "brand": "Bajaj",
@@ -85,6 +536,215 @@
     "api": "API SL o superior",
     "jaso": "JASO MA2",
     "capacity_liters": "1.0",
-    "notes": "Especificación referencial. Validar manual del fabricante."
+    "notes": "Especificación referencial. Confirmar según manual."
+  },
+  {
+    "brand": "Bajaj",
+    "model": "Boxer CT 100",
+    "year": 2023,
+    "engine_type": "4T",
+    "viscosity": "20W-50",
+    "api": "API SL o superior",
+    "jaso": "JASO MA2",
+    "capacity_liters": "1.0",
+    "notes": "Especificación referencial. Confirmar según manual."
+  },
+  {
+    "brand": "Bajaj",
+    "model": "Boxer S",
+    "year": 2022,
+    "engine_type": "4T",
+    "viscosity": "20W-50",
+    "api": "API SL o superior",
+    "jaso": "JASO MA2",
+    "capacity_liters": "1.1",
+    "notes": "Especificación referencial. Confirmar según manual."
+  },
+  {
+    "brand": "Bajaj",
+    "model": "Boxer S",
+    "year": 2023,
+    "engine_type": "4T",
+    "viscosity": "20W-50",
+    "api": "API SL o superior",
+    "jaso": "JASO MA2",
+    "capacity_liters": "1.1",
+    "notes": "Especificación referencial. Confirmar según manual."
+  },
+  {
+    "brand": "Bajaj",
+    "model": "Pulsar NS 160",
+    "year": 2022,
+    "engine_type": "4T",
+    "viscosity": "20W-50",
+    "api": "API SL o superior",
+    "jaso": "JASO MA2",
+    "capacity_liters": "1.2",
+    "notes": "Especificación referencial. Confirmar según manual."
+  },
+  {
+    "brand": "Bajaj",
+    "model": "Pulsar NS 160",
+    "year": 2023,
+    "engine_type": "4T",
+    "viscosity": "20W-50",
+    "api": "API SL o superior",
+    "jaso": "JASO MA2",
+    "capacity_liters": "1.2",
+    "notes": "Especificación referencial. Confirmar según manual."
+  },
+  {
+    "brand": "Bajaj",
+    "model": "Pulsar NS 200",
+    "year": 2022,
+    "engine_type": "4T",
+    "viscosity": "20W-50",
+    "api": "API SL o superior",
+    "jaso": "JASO MA2",
+    "capacity_liters": "1.2",
+    "notes": "Especificación referencial. Confirmar según manual."
+  },
+  {
+    "brand": "Bajaj",
+    "model": "Pulsar NS 200",
+    "year": 2023,
+    "engine_type": "4T",
+    "viscosity": "20W-50",
+    "api": "API SL o superior",
+    "jaso": "JASO MA2",
+    "capacity_liters": "1.2",
+    "notes": "Especificación referencial. Confirmar según manual."
+  },
+  {
+    "brand": "TVS",
+    "model": "Apache RTR 160",
+    "year": 2022,
+    "engine_type": "4T",
+    "viscosity": "10W-30",
+    "api": "API SL o superior",
+    "jaso": "JASO MA2",
+    "capacity_liters": "1.2",
+    "notes": "Especificación referencial. Confirmar según manual."
+  },
+  {
+    "brand": "TVS",
+    "model": "Apache RTR 160",
+    "year": 2023,
+    "engine_type": "4T",
+    "viscosity": "10W-30",
+    "api": "API SL o superior",
+    "jaso": "JASO MA2",
+    "capacity_liters": "1.2",
+    "notes": "Especificación referencial. Confirmar según manual."
+  },
+  {
+    "brand": "TVS",
+    "model": "Apache RTR 200",
+    "year": 2022,
+    "engine_type": "4T",
+    "viscosity": "10W-30",
+    "api": "API SL o superior",
+    "jaso": "JASO MA2",
+    "capacity_liters": "1.2",
+    "notes": "Especificación referencial. Confirmar según manual."
+  },
+  {
+    "brand": "TVS",
+    "model": "Apache RTR 200",
+    "year": 2023,
+    "engine_type": "4T",
+    "viscosity": "10W-30",
+    "api": "API SL o superior",
+    "jaso": "JASO MA2",
+    "capacity_liters": "1.2",
+    "notes": "Especificación referencial. Confirmar según manual."
+  },
+  {
+    "brand": "Hero",
+    "model": "Hunk 160R",
+    "year": 2022,
+    "engine_type": "4T",
+    "viscosity": "10W-30",
+    "api": "API SL o superior",
+    "jaso": "JASO MA2",
+    "capacity_liters": "1.1",
+    "notes": "Especificación referencial. Confirmar según manual."
+  },
+  {
+    "brand": "Hero",
+    "model": "Hunk 160R",
+    "year": 2023,
+    "engine_type": "4T",
+    "viscosity": "10W-30",
+    "api": "API SL o superior",
+    "jaso": "JASO MA2",
+    "capacity_liters": "1.1",
+    "notes": "Especificación referencial. Confirmar según manual."
+  },
+  {
+    "brand": "Victory",
+    "model": "MRX 150",
+    "year": 2022,
+    "engine_type": "4T",
+    "viscosity": "20W-50",
+    "api": "API SL o superior",
+    "jaso": "JASO MA2",
+    "capacity_liters": "1.1",
+    "notes": "Especificación referencial. Confirmar según manual."
+  },
+  {
+    "brand": "Victory",
+    "model": "MRX 150",
+    "year": 2023,
+    "engine_type": "4T",
+    "viscosity": "20W-50",
+    "api": "API SL o superior",
+    "jaso": "JASO MA2",
+    "capacity_liters": "1.1",
+    "notes": "Especificación referencial. Confirmar según manual."
+  },
+  {
+    "brand": "Benelli",
+    "model": "TNT 150",
+    "year": 2022,
+    "engine_type": "4T",
+    "viscosity": "15W-50",
+    "api": "API SL o superior",
+    "jaso": "JASO MA2",
+    "capacity_liters": "1.2",
+    "notes": "Especificación referencial. Confirmar según manual."
+  },
+  {
+    "brand": "Benelli",
+    "model": "TNT 150",
+    "year": 2023,
+    "engine_type": "4T",
+    "viscosity": "15W-50",
+    "api": "API SL o superior",
+    "jaso": "JASO MA2",
+    "capacity_liters": "1.2",
+    "notes": "Especificación referencial. Confirmar según manual."
+  },
+  {
+    "brand": "KTM",
+    "model": "Duke 200",
+    "year": 2022,
+    "engine_type": "4T",
+    "viscosity": "15W-50",
+    "api": "API SL o superior",
+    "jaso": "JASO MA2",
+    "capacity_liters": "1.7",
+    "notes": "Especificación referencial. Confirmar según manual."
+  },
+  {
+    "brand": "KTM",
+    "model": "Duke 200",
+    "year": 2023,
+    "engine_type": "4T",
+    "viscosity": "15W-50",
+    "api": "API SL o superior",
+    "jaso": "JASO MA2",
+    "capacity_liters": "1.7",
+    "notes": "Especificación referencial. Confirmar según manual."
   }
 ]
