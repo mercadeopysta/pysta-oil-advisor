@@ -1,15 +1,4 @@
 [
-    {
-    "brand": "Yamaha",
-    "model": "XTZ 125",
-    "year": 2022,
-    "engine_type": "4T",
-    "viscosity": "10W-40",
-    "api": "API SL o superior",
-    "jaso": "JASO MA2",
-    "capacity_liters": "1.15",
-    "notes": "Validar siempre manual del fabricante."
-  },
   {
     "brand": "AKT",
     "model": "NKD 125",
@@ -21,17 +10,6 @@
     "capacity_liters": "1.0",
     "notes": "Recomendación referencial para uso en Colombia. Validar manual del fabricante."
   },
-  {
-  "brand": "CFMOTO",
-  "model": "250 NK",
-  "year": 2023,
-  "engine_type": "4T",
-  "viscosity": "15W-50",
-  "api": "API SL o superior",
-  "jaso": "JASO MA2",
-  "capacity_liters": "1.5",
-  "notes": "Especificación referencial. Confirmar según manual."
-},
   {
     "brand": "AKT",
     "model": "NKD 125",
@@ -770,6 +748,7 @@
     "notes": "Especificación referencial. Confirmar según manual."
   }
 ]
+
 
 
 
