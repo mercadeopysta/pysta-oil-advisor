@@ -1,7 +1,7 @@
 [
     {
     "brand": "Yamaha",
-    "model": "FZN 125",
+    "model": "XTZ 125",
     "year": 2022,
     "engine_type": "4T",
     "viscosity": "10W-40",
@@ -770,5 +770,6 @@
     "notes": "Especificación referencial. Confirmar según manual."
   }
 ]
+
 
 
