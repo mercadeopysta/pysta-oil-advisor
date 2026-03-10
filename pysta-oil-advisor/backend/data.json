@@ -1,4 +1,15 @@
 [
+    {
+    "brand": "Yamaha",
+    "model": "FZN 125",
+    "year": 2022,
+    "engine_type": "4T",
+    "viscosity": "10W-40",
+    "api": "API SL o superior",
+    "jaso": "JASO MA2",
+    "capacity_liters": "1.15",
+    "notes": "Validar siempre manual del fabricante."
+  },
   {
     "brand": "AKT",
     "model": "NKD 125",
@@ -759,4 +770,5 @@
     "notes": "Especificación referencial. Confirmar según manual."
   }
 ]
+
 
