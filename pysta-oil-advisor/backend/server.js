@@ -74,6 +74,7 @@ function aliasBrand(brand) {
   const b = normalizeText(brand);
 
   const aliases = {
+    cfmoto: ["cfmoto"],
     akt: ["akt"],
     yamaha: ["yamaha"],
     honda: ["honda"],
@@ -247,3 +248,4 @@ app.listen(PORT, () => {
   console.log(`Servidor activo en puerto ${PORT}`);
 
 });
+
