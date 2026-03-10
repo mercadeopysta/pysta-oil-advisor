@@ -11,6 +11,17 @@
     "notes": "Recomendación referencial para uso en Colombia. Validar manual del fabricante."
   },
   {
+    "brand": "CFMOTO",
+    "model": "200 NK",
+    "year": 2022,
+    "engine_type": "4T",
+    "viscosity": "20W-50",
+    "api": "API SL o superior",
+    "jaso": "JASO MA2",
+    "capacity_liters": "1.0",
+    "notes": "Recomendación referencial para uso en Colombia. Validar manual del fabricante."
+  },
+  {
     "brand": "AKT",
     "model": "NKD 125",
     "year": 2021,
@@ -748,6 +759,7 @@
     "notes": "Especificación referencial. Confirmar según manual."
   }
 ]
+
 
 
 
